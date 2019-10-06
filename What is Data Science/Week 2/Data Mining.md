@@ -24,9 +24,9 @@
     - [ ] Non-parametric methods.
     - [x] Data Visualization.
 
-5 - “Formal evaluation could include testing the predictive capabilities of the models on observed data to see how effective and efficient the algorithms have been in reproducing data.” This is known as:
+5. “Formal evaluation could include testing the predictive capabilities of the models on observed data to see how effective and efficient the algorithms have been in reproducing data.” This is known as
 
-    - [ ] Reverse engineering.
+    - [ ] Reverse engineering
     - [ ] Overfitting.
     - [x] In-sample forecast.
     - [ ] Prototyping.
